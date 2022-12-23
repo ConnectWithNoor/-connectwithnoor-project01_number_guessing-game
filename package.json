@@ -1,0 +1,17 @@
+{
+  "name": "@connectwithnoor/project01_number_guessing-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "@connectwithnoor/project01_number_guessing-game": "dist/index.js"
+  },
+  "scripts": {
+    "start:dev": "nodemon src/index.ts",
+    "start": "tsc && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
