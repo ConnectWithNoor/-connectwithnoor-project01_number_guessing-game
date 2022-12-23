@@ -38,4 +38,3 @@ do {
   var result = await validateAnswer(userNumber);
   console.log(result.message);
 } while (!result.status);
-5;
