@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import inquirer from 'inquirer';
 
 // random number between 1 - 10
